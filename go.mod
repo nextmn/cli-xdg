@@ -1,4 +1,4 @@
-module github.com/nextmn/cli-xdg
+module github.com/nextmn/cli
 
 go 1.27.0
 
