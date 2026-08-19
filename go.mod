@@ -1,10 +1,10 @@
 module github.com/nextmn/cli-xdg
 
-go 1.25.5
+go 1.26.6
 
 require (
 	github.com/adrg/xdg v0.5.3
-	github.com/urfave/cli/v3 v3.9.0
+	github.com/urfave/cli/v3 v3.11.0
 )
 
-require golang.org/x/sys v0.26.0 // indirect
+require golang.org/x/sys v0.47.0 // indirect
