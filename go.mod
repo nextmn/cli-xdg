@@ -4,7 +4,7 @@ go 1.27.0
 
 require (
 	github.com/adrg/xdg v0.5.3
-	github.com/urfave/cli/v3 v3.12.0
+	github.com/urfave/cli/v3 v3.13.0
 )
 
 require golang.org/x/sys v0.47.0 // indirect
